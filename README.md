@@ -1,1 +1,2 @@
 # sql-data-analytics-project
+A complete collection of SQL scripts for data exploration, analytics, and reporting. The collection includes queries for database exploration, KPI and metric analysis, time-series trends, cumulative calculations, customer segmentation, and other analytical use cases. Designed for data analysts and BI professionals, these scripts enable efficient exploration, segmentation, and analysis of relational databases while showcasing SQL best practices across different analytical scenarios.
